@@ -1,1 +1,1 @@
-asdfasdfsdf
+var asdfasdfsdf = '这能放弃更改'
